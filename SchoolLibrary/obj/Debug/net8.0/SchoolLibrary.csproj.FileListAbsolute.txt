@@ -1,0 +1,14 @@
+/Users/radmirgaripov/Downloads/Functions2025/SchoolLibrary/bin/Debug/net8.0/SchoolLibrary.deps.json
+/Users/radmirgaripov/Downloads/Functions2025/SchoolLibrary/bin/Debug/net8.0/SchoolLibrary.dll
+/Users/radmirgaripov/Downloads/Functions2025/SchoolLibrary/bin/Debug/net8.0/SchoolLibrary.pdb
+/Users/radmirgaripov/Downloads/Functions2025/SchoolLibrary/obj/Debug/net8.0/SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radmirgaripov/Downloads/Functions2025/SchoolLibrary/obj/Debug/net8.0/SchoolLibrary.AssemblyInfoInputs.cache
+/Users/radmirgaripov/Downloads/Functions2025/SchoolLibrary/obj/Debug/net8.0/SchoolLibrary.AssemblyInfo.cs
+/Users/radmirgaripov/Downloads/Functions2025/SchoolLibrary/obj/Debug/net8.0/SchoolLibrary.csproj.CoreCompileInputs.cache
+/Users/radmirgaripov/Downloads/Functions2025/SchoolLibrary/obj/Debug/net8.0/SchoolLibrary.dll
+/Users/radmirgaripov/Downloads/Functions2025/SchoolLibrary/obj/Debug/net8.0/refint/SchoolLibrary.dll
+/Users/radmirgaripov/Downloads/Functions2025/SchoolLibrary/obj/Debug/net8.0/SchoolLibrary.pdb
+/Users/radmirgaripov/Downloads/Functions2025/SchoolLibrary/obj/Debug/net8.0/ref/SchoolLibrary.dll
+/Users/radmirgaripov/Downloads/Functions2025/Functions2025/bin/output/SchoolLibrary.deps.json
+/Users/radmirgaripov/Downloads/Functions2025/Functions2025/bin/output/SchoolLibrary.dll
+/Users/radmirgaripov/Downloads/Functions2025/Functions2025/bin/output/SchoolLibrary.pdb
